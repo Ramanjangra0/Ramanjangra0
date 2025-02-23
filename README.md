@@ -22,7 +22,7 @@
      <img width="12" />
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height="30" alt="Prisma"  />
      <img width="12" />
-  <img src="https://en.vetores.org/wp-content/uploads/typescript-768x432.png" height="30" alt="TypeScript "  />
+  <img src="https://th.bing.com/th/id/OIP.9dFf9CDx1Xk7RgNRs2jkvgHaHa?rs=1&pid=ImgDetMain" height="30" alt="TypeScript "  />
 </div>
 
 ###
