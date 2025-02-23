@@ -20,7 +20,7 @@
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
      <img width="12" />
-  <img src="https://www.svgrepo.com/show/354210/prisma.svg" height="30" alt="Prisma"  />
+  <img src="https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg" height="30" alt="Prisma"  />
 </div>
 
 ###
